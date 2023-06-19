@@ -1,7 +1,7 @@
 # Pegasus
 ![logo_Pegasus](https://github.com/MatheusLastoria/Pegasus/blob/main/pegasus_menu.png)
 <br><br>
-Jogo criado para o curso "Desenvolvimento de Jogos" - FHO 2023. Para jogar o jogo, basta abrir o link do drive, fazer o download e executar o arquivo .exe
+Jogo criado para o curso "Desenvolvimento de Jogos" - FHO 2023. Para jogar o jogo, basta abrir o link do drive no final da pagina, fazer o download e executar o arquivo .exe
 <br><br>
 ![logo_Pegasus](https://github.com/MatheusLastoria/Pegasus/blob/main/Pegasus_tutorial.png)
 
